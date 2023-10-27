@@ -13,7 +13,8 @@ Desarrollador Full Stack e Ingeniero Quimico. Me desempeño distintos lenguajes 
 
 ### 🧑‍💻 Lenguajes de programación
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![Static Badge](https://img.shields.io/badge/%20Python%20-%20?style=d8eb07&logo=Python&color=d8eb07)
 
 ### 🎨 Desarrollo Frontend
 
@@ -21,12 +22,12 @@ Desarrollador Full Stack e Ingeniero Quimico. Me desempeño distintos lenguajes 
 
 ### 🛜 Desarrollo Backend
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  ! [Python](https://img.shields.io/badge/%20Python%20-%20?style=d8eb07&logo=Python&color=d8eb07)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Static Badge](https://img.shields.io/badge/%20Python%20-%20?style=d8eb07&logo=Python&color=d8eb07)
 
 
 ### 🔧 Base de datos
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) !
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 ### 📎 Platform as a Service (PaaS)
 
